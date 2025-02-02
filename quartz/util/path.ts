@@ -253,9 +253,9 @@ export function transformLink(src: FullSlug, target: string, opts: TransformOpti
 function isFolderPath(fplike: string): boolean {
   return (
     fplike.endsWith("/") ||
-    endsWith(fplike, "index") ||
-    endsWith(fplike, "index.md") ||
-    endsWith(fplike, "index.html")
+    endsWith(fplike, "luxendar") ||
+    endsWith(fplike, "luxendar.md") ||
+    endsWith(fplike, "luxendar.html")
   )
 }
 
