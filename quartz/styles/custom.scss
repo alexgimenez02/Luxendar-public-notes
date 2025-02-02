@@ -1,3 +1,21 @@
 @use "./base.scss";
 
+@font-face {
+    font-family: 'Dragon Hunter';
+    src: url('../assets/DragonHunter-9Ynxj.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Black North';
+    src: url('../assets/Blacknorthdemo-mLE25.otf') format('opentype');
+}
+
+body,
+section {
+    font-family: 'Dragon Hunter', sans-serif;
+}
+
+thead {
+    font-family: 'Black North', sans-serif;
+}
 // put your custom CSS here!
