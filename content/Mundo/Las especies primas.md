@@ -11,6 +11,7 @@ La especies primas son aquellas especies que fueron creadas al inicio de todo, d
 | Goliath  | Eldath y Torm    |
 | Orco     | Bane             |
 | Cambion  | Asmodeus         |
+
 Estas especies fueron desperdigadas en el plano terrenal y crearon las primeras civilizaciones. Siglos más tarde, más especies aparecieron en el mundo, tanto por creación de dioses como por mezcla de sangre.
 
 A parte de las especies humanoides, otras especies ya más animales fueron creadas para habilitar, a estas criaturas más pensantes una forma de sustento.
