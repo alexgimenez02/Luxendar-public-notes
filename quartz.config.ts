@@ -9,7 +9,6 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Luxendar",
-    pageTitleSuffix: "A world of magic and wonders",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -21,11 +20,11 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
-      fontOrigin: "local",
-      cdnCaching: false,
+      fontOrigin: "googleFonts",
+      cdnCaching: true,
       typography: {
-        header: "Black North",
-        body: "Dragon Hunter",
+        header: "Schibsted Grotesk",
+        body: "Source Sans Pro",
         code: "IBM Plex Mono",
       },
       colors: {
