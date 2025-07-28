@@ -1,6 +1,5 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
-import leafletPlugin from "./quartz/plugins/leaflet"
 
 /**
  * Quartz 4.0 Configuration
@@ -85,7 +84,6 @@ const config: QuartzConfig = {
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.NotFoundPage(),
-      leafletPlugin()
     ],
   },
 }
